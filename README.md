@@ -32,11 +32,23 @@
 
   
 
-[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Atharva | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Atharva | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://github.com/atharvasaraf123" />][twitter]
+[<img align="left" alt="Atharva | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+
+<br />
+
+#### Coding Profiles:
+
+  
+
+[<img align="left" alt="Atharva | CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />][codechef]
+
+[<img align="left" alt="Atharva | LeetCode" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />][leetcode]
+
+[<img align="left" alt="Atharva | HackerRank" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />][hackerrank]
 
   
 
@@ -61,6 +73,10 @@
 <img align="left" alt="Java"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"  />
 
 <img align="left" alt="Dart"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"  />
+
+<a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26px" /> </a>
+
+ <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="26px"/> </a> 
 
 <img align="left" alt="NodeJS"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  />
 
@@ -121,3 +137,9 @@
 [gmail]: mailto:sarafatharva123@gmail.com
 
 [twitter]: https://twitter.com/AtharvaSaraf12
+
+[codechef]: https://www.codechef.com/users/atharva_saraf
+
+[leetcode]: https://leetcode.com/atharva_saraf/
+
+[hackerrank]: https://www.hackerrank.com/sarafatharva123?hr_r=1
