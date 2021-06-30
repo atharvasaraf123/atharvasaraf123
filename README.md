@@ -1,4 +1,5 @@
 
+
   
 
 ### Hi there, I am Atharva Saraf👋
@@ -87,23 +88,20 @@
 
   
 
----
+
+  
+
+
+
+  
+
+#### Github Stats:
 
   
 
   
 
-<details>
-
-  
-
-<summary>GitHub Stats</summary>
-
-  
-
-  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvasaraf123&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues)
+![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvasaraf123&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues)
 
   
   
@@ -113,8 +111,6 @@
   
 
   
-
-</details>
 
   
 
